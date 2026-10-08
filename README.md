@@ -115,6 +115,8 @@ The platform covers:
 
 🔗 **Repository:**  
 https://github.com/Ariq04/english-self-assessment
+🌐 **Live Application:**  
+https://english-self-assessment-production.up.railway.app/
 
 ---
 
@@ -158,7 +160,7 @@ AI / Intelligence
 Automation
   ↓
 Practical Application
----
+```text
 
 
 Areas I'm interested in:
