@@ -158,6 +158,7 @@ AI / Intelligence
 Automation
   ↓
 Practical Application
+---
 
 
 Areas I'm interested in:
