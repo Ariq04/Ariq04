@@ -147,7 +147,7 @@ A real-time analytics dashboard developed as an academic project to transform st
 
 # 💡 What I Like Building
 
-I am particularly interested in applications that combine:
+I am particularly interested in building applications that combine **data, AI, software, and automation**.
 
 ```text
 Data
@@ -161,7 +161,6 @@ AI / Intelligence
 Automation
   ↓
 Practical Application
-```text
 
 
 Areas I'm interested in:
