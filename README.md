@@ -11,12 +11,11 @@ I enjoy turning real-world problems into practical technology solutions, from in
 
 ## About Me
 
-- Bachelor of Computer — Information Systems, Universitas Nurdin Hamzah
-- GPA: **4.00 / 4.00**
-- Focused on **Data Analytics, Business Intelligence, Generative AI, and Application Development**
-- Experienced in building **web-based and data-driven applications**
-- Interested in **AI Agents, API integration, automation, and intelligent systems**
-- Strong interest in combining **data, software, and AI** to solve practical problems
+I am an Information Systems graduate focused on building practical applications that combine **Data Analytics, Business Intelligence, Generative AI, and software development**.
+
+I enjoy turning data and real-world problems into useful technology solutions through **data-driven applications, AI-powered systems, API integration, and automation**. My interests include building intelligent applications that connect data, software, and AI to support analysis, decision-making, and practical workflows.
+
+I am continuously developing my skills in **AI application development, data analytics, AI agents, and software engineering**, with a strong focus on building reliable and useful applications.
 
 ---
 
